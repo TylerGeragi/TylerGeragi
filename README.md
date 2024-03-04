@@ -10,9 +10,5 @@
   - https://github.com/tylergeragi/Automated-addition-of-users
 
 
-<h2> 🤳 Connect with me:</h2>
-
-https://www.linkedin.com/in/tyler-geragi/
-
 - 🔭 I’m currently working on useful Python & Powershell scripting
 - 🌱 I’m currently learning Microsfot Azure
