@@ -11,9 +11,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-
-Here are some ideas to get you started:
+https://linkedin.com/tyler-geragi
 
 - 🔭 I’m currently working on useful Python & Powershell scripting
 - 🌱 I’m currently learning Microsfot Azure
