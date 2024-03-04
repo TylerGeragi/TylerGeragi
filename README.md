@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerGeragi"><a href="https://www.linkedin.com/in/tylergeragi/">Cybersecurity Enthusiast</a>, 
 
-<!--
-**TylerGeragi/TylerGeragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Projects:</h2>
+
+- <b>Python - Netowrk Reconnaissance </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Powershell - Active Directory</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python & Powershell useful scripting
+- 🌱 I’m currently learning Microsfot Azure
