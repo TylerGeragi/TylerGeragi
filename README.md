@@ -4,8 +4,8 @@
 
 - <b>Virtualbox Utilization </b>
   - [Virtual Machine Creatiion](https://github.com/TylerGeragi/VirtualBox)
-- <b>Python - Network Reconnaissance </b>
-  - [Python Script for automated network discovery](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python  </b>
+  - [Automated Network Reconnaissance](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Powershell - Active Directory</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
