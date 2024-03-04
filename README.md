@@ -5,7 +5,7 @@
 - <b>Virtualbox Utilization </b>
   - [Virtual Machine Creatiion](https://github.com/TylerGeragi/VirtualBox)
 - <b>Python - Netowrk Reconnaissance </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python Script for automated network discovery](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Powershell - Active Directory</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
