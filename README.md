@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerGeragi"><a href="https://www.linkedin.com/in/tylergeragi/">Cybersecurity Enthusiast</a>, 
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerGeragi"><a href="https://www.linkedin.com/in/tylergeragi/">Cybersecurity Enthusiast</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
