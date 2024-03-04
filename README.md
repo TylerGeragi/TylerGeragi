@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - <b>Virtualbox Utilization </b>
-  - Virtual Machine Creation https://github.com/TylerGeragi/VirtualBox
+  -  https://github.com/TylerGeragi/VirtualBox
 - <b>Python  </b>
-  - Automated Network Reconnaissance https://github.com/TylerGeragi/Automated-Network-Reconnaissance
+  -  https://github.com/TylerGeragi/Automated-Network-Reconnaissance
 - <b>Powershell - Active Directory</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/tylergeragi/Automated-addition-of-users)
 
 
 <h2> 🤳 Connect with me:</h2>
