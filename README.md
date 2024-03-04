@@ -15,5 +15,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python & Powershell useful scripting
+- 🔭 I’m currently working on useful Python & Powershell scripting
 - 🌱 I’m currently learning Microsfot Azure
