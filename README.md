@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - <b>Virtualbox Utilization </b>
-  - [Virtual Machine Set-up](https://github.com/TylerGeragi/VirtualBox)
+  - [Virtual Machine Creatiion](https://github.com/TylerGeragi/VirtualBox)
 - <b>Python - Netowrk Reconnaissance </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Powershell - Active Directory</b>
