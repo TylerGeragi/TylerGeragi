@@ -7,7 +7,7 @@
 - <b>Python  </b>
   -  https://github.com/TylerGeragi/Automated-Network-Reconnaissance
 - <b>Powershell - Active Directory</b>
-  - (https://github.com/tylergeragi/Automated-addition-of-users)
+  - https://github.com/tylergeragi/Automated-addition-of-users
 
 
 <h2> 🤳 Connect with me:</h2>
