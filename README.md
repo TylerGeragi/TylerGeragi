@@ -9,5 +9,15 @@
 - <b>Powershell - Active Directory</b>
   - https://github.com/tylergeragi/Powershell_Onboarding_New_Users
 
-<h3>Currently pursuing</h3>
-- Microsoft Azure / Sentinel , Python & Powershell Scripting 
+
+
+
+
+<h2>🪴Currently Pursuing:</h2>
+
+- <b>Microsoft </b>
+  - Azure / Sentinel
+- <b>Programming Languages </b>
+  - Python / Powershell
+- <b>Kali Linux </b>
+  - Digital Forensics / Offensive Security
