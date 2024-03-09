@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Virtualbox Utilization </b>
+- <b>Virtualbox</b>
   -  https://github.com/TylerGeragi/VirtualBox
 - <b>Python  </b>
   -  https://github.com/TylerGeragi/Automated-Network-Reconnaissance
